@@ -5,7 +5,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "nodemon ./src/bible.js"
+        "dev": "nodemon ./src/telegram.js"
     },
     "keywords": [],
     "author": "",
